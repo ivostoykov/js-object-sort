@@ -1,6 +1,9 @@
 {
   "requires": true,
   "lockfileVersion": 1,
+  "scripts": {
+    "test": "mocha"
+  },
   "dependencies": {
     "ansi-colors": {
       "version": "4.1.1",
